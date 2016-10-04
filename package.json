@@ -1,0 +1,14 @@
+{
+  "name": "bookgr",
+  "version": "1.0.0",
+  "description": "step by step Graphiql + Relay + react",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.6.2"
+  }
+}
